@@ -1,5 +1,9 @@
 package UFC.UFC_app.repository;
 
-public interface NotesRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+import UFC.UFC_app.model.Note;
+
+public interface NotesRepository 
+		extends JpaRepository<Note, Long>{
 
 }
