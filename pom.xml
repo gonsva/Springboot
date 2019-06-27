@@ -16,7 +16,7 @@
   
   <parent>
   <groupId>org.springframework.boot</groupId>
-  <artifactId>sprint-boot-starter-parent</artifactId>
+  <artifactId>spring-boot-starter-parent</artifactId>
   <version>1.5.3.RELEASE</version>
   </parent>
 
